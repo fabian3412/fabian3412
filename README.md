@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Garden Tracker](https://github.com/YuriiLevchuk/garden-tracker)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
